@@ -1,0 +1,5 @@
+sqlite3
+pandas
+python-dateutil
+pathlib
+pyobjc-framework-Foundation 
